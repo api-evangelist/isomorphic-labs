@@ -1,0 +1,87 @@
+aid: isomorphic-labs
+name: Isomorphic Labs
+description: >-
+  Isomorphic Labs is a London-based AI-first drug discovery company spun out
+  of Google DeepMind in 2021 and operating as an Alphabet subsidiary. Founded
+  and led by Sir Demis Hassabis, the company applies frontier AI — including
+  derivatives of the Nobel-winning AlphaFold system and its proprietary
+  Unified Drug Design Engine — to accelerate the design of small-molecule
+  and biologic therapeutics across oncology, immunology, and other
+  therapeutic areas. The Drug Design Engine is positioned as a
+  target- and disease-agnostic, multi-modality platform that combines
+  predictive and generative models with a curated proprietary life-science
+  "Dataverse" and large-scale GPU infrastructure. Isomorphic Labs monetises
+  through strategic pharmaceutical research collaborations — disclosed deals
+  include Novartis (January 2024, expanded February 2025), Eli Lilly, and
+  Johnson & Johnson (January 2026) — and through its own internal
+  therapeutic pipeline. The company closed a $600M external Series B
+  investment round in March 2025. Isomorphic Labs does not operate a public
+  developer API, SDK, or open-source release of its Drug Design Engine;
+  external researcher access to AlphaFold-family models is provided
+  separately by Google DeepMind via the free AlphaFold Server
+  (alphafoldserver.com) for non-commercial use, and via the open-source
+  AlphaFold 3 inference code released by DeepMind. The Isomorphic Labs
+  GitHub organisation hosts only a small number of forks of internal
+  Kubernetes and configuration-management tooling.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Artificial Intelligence
+  - Drug Discovery
+  - Pharmaceutical
+  - Life Sciences
+  - Biotechnology
+  - Computational Biology
+  - Protein Structure
+  - AlphaFold
+  - Generative AI
+  - Foundation Models
+  - Small Molecules
+  - Biologics
+  - Oncology
+  - Immunology
+  - Alphabet
+  - DeepMind
+url: https://raw.githubusercontent.com/api-evangelist/isomorphic-labs/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.isomorphiclabs.com
+  - type: OurTech
+    url: https://www.isomorphiclabs.com/our-tech
+  - type: Partnerships
+    url: https://www.isomorphiclabs.com/partnerships
+  - type: OurTeam
+    url: https://www.isomorphiclabs.com/our-team
+  - type: LifeAtIso
+    url: https://www.isomorphiclabs.com/life-at-iso
+  - type: Careers
+    url: https://www.isomorphiclabs.com/work-with-us
+  - type: JobOpenings
+    url: https://www.isomorphiclabs.com/job-openings
+  - type: Newsroom
+    url: https://www.isomorphiclabs.com/news
+  - type: AlphaFoldServer
+    url: https://alphafoldserver.com
+  - type: AlphaFold3Code
+    url: https://github.com/google-deepmind/alphafold3
+  - type: GitHubOrganization
+    url: https://github.com/isomorphiclabs
+  - type: Twitter
+    url: https://twitter.com/IsomorphicLabs
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/isomorphic-labs
+  - type: PressContact
+    url: mailto:press@isomorphiclabs.com
+  - type: PartneringContact
+    url: mailto:partnering@isomorphiclabs.com
+  - type: GeneralContact
+    url: mailto:connecting@isomorphiclabs.com
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
