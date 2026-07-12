@@ -50,6 +50,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/isomorphic-labs-domain-security.yml
   - type: Website
     url: https://www.isomorphiclabs.com
   - type: OurTech
@@ -82,6 +84,8 @@ common:
     url: mailto:partnering@isomorphiclabs.com
   - type: GeneralContact
     url: mailto:connecting@isomorphiclabs.com
+  - url: https://www.isomorphiclabs.com/news
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
