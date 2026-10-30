@@ -1,4 +1,4 @@
-# isomorphic-labs
+# Isomorphic Labs
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Isomorphic Labs — Alphabet AI-first drug discovery (AlphaFold + proprietary Drug Design Engine)
+Isomorphic Labs is a London-based AI-first drug discovery company spun out of Google DeepMind in 2021 and operating as an Alphabet subsidiary. Founded and led by Sir Demis Hassabis, the company applies frontier AI — including derivatives of the Nobel-winning AlphaFold system and its proprietary Unified Drug Design Engine — to accelerate the design of small-molecule and biologic therapeutics across oncology, immunology, and other therapeutic areas. The Drug Design Engine is positioned as a target- and disease-agnostic, multi-modality platform that combines predictive and generative models with a curated proprietary life-science "Dataverse" and large-scale GPU infrastructure. Isomorphic Labs monetises through strategic pharmaceutical research collaborations — disclosed deals include Novartis (January 2024, expanded February 2025), Eli Lilly, and Johnson & Johnson (January 2026) — and through its own internal therapeutic pipeline. The company closed a $600M external Series B investment round in March 2025. Isomorphic Labs does not operate a public developer API, SDK, or open-source release of its Drug Design Engine; external researcher access to AlphaFold-family models is provided separately by Google DeepMind via the free AlphaFold Server (alphafoldserver.com) for non-commercial use, and via the open-source AlphaFold 3 inference code released by DeepMind. The Isomorphic Labs GitHub organisation hosts only a small number of forks of internal Kubernetes and configuration-management tooling.
+
+**Areas:** Artificial Intelligence · Drug Discovery · Pharmaceuticals · Life Sciences · Biotechnology · Computational Biology · Protein Structure · AlphaFold · Generative AI · Foundation Models · Small Molecule · Biologics
+
+## Isomorphic Labs on APIs.io
+
+Everything profiled for Isomorphic Labs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/isomorphic-labs/](https://apis.io/providers/isomorphic-labs/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Isomorphic Labs Domain Security](https://apis.io/security/isomorphic-labs/isomorphic-labs-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.isomorphiclabs.com)
+- [Blog](https://www.isomorphiclabs.com/news)
+- [GitHub](https://github.com/isomorphiclabs)
+
+## API Evangelist rating
+
+**Kin Score 4.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.4** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/isomorphic-labs/](https://apis.io/providers/isomorphic-labs/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Isomorphic Labs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/isomorphic-labs/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
